@@ -3,6 +3,7 @@
   "displayName": "Check",
   "description": "",
   "version": "0.0.1",
+  "homepage": "https://github.com/sanjeevinnobit/theme-changer",
   "engines": {
     "vscode": "^1.86.0"
   },

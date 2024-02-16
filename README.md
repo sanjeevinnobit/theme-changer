@@ -26,7 +26,7 @@ The Theme Changer Extension is a Visual Studio Code extension that allows users 
 The Theme Changer Extension can be configured through the settings. To access the settings, go to File > Preferences > Settings and search for "Theme Changer".
 
 ## Contributing
-Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request on the [GitHub repository](https://github.com/your-username/theme-changer-extension).
+Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request on the [GitHub repository](https://github.com/sanjeevinnobit/theme-changer).
 
 ## License
 This extension is licensed under the [MIT License](LICENSE).
